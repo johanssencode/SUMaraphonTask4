@@ -2,7 +2,7 @@
 //  SUMaraphonTask4App.swift
 //  SUMaraphonTask4
 //
-//  Created by A on 10.12.2024.
+//  Created by A.J on 10.12.2024.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct SUMaraphonTask4App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PlayForwardButton()
         }
     }
 }
